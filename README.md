@@ -1,6 +1,6 @@
 This is a small script I wrote to quickly get an idea about a particular word/thing/place/person that you don't know about.
 
-How to run
+How to run - 
 Python is needed to run this script. 
 Clone this project, go into the project folder and run:
 ```
